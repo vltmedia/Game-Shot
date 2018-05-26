@@ -1,0 +1,3 @@
+﻿Module Minimized
+
+End Module
